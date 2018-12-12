@@ -3,35 +3,7 @@
 ### The analysis of various datasets for practice and showcase. 
 
 
-(Descriptions for my own furute reference.)
-
-
-### [001 - Mass Shootings](https://github.com/qu4ku/datasets-analysis/blob/master/001-US-Mass-Shootings.ipynb)
-- Bokeh GMapPlot - google maps plot with Bokeh
-- Swarmplot
-- Crosstab
-- Correlations
-
-### [002 - Collage Salaries](https://github.com/qu4ku/datasets-analysis/blob/master/002-collage-salaries.ipynb)
-
-### [003 - World Happines](https://github.com/qu4ku/datasets-analysis/blob/master/003-world-happines.ipynb)
-
-### [004 - Mental Health in Tech Survey - 2014](https://github.com/qu4ku/datasets-analysis/blob/master/004-mental-health-in-tech-survey-2014.ipynb)
-- Subplots
-- ML (to be done)
-
-### [005 - Used Cars Database](https://github.com/qu4ku/datasets-analysis/blob/master/005-used-cars-database.ipynb)
-
-### [006 - Emergency 911 Calls](https://github.com/qu4ku/datasets-analysis/blob/master/006-emergency-911-calls.ipynb)
-- Rolled TimeSeries / Frequency
-- Heatmap with Crosstab
-
-# Datasets Analysis
-
-### The analysis of various datasets for practice and showcase. 
-
-
-(Descriptions for my own furute reference.)
+(Descriptions for my own future reference.)
 
 
 ### [001 - Mass Shootings](https://github.com/qu4ku/datasets-analysis/blob/master/001-US-Mass-Shootings.ipynb)
